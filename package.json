@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/vromao/kami-runner#readme",
   "dependencies": {
+    "normalize-scss": "^7.0.1",
     "p5": "^1.0.0"
   },
   "devDependencies": {

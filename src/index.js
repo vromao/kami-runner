@@ -1,2 +1,2 @@
-import './sketch.js';
 import './scss/styles.scss';
+import './sketch.js';
